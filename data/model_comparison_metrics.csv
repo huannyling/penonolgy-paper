@@ -1,0 +1,33 @@
+Evaluation,Model,City,N,R2,RMSE,MAE
+LOYO CV,M1: RT (clim),All (pooled),255,0.6497,5.144,3.9079
+LOYO CV,M1: RT (clim),Kyoto,85,0.4853,3.5281,2.7558
+LOYO CV,M1: RT (clim),Liestal,85,0.5928,7.2496,5.9738
+LOYO CV,M1: RT (clim),Washington,85,0.7292,3.7917,2.9942
+LOYO CV,M2: RF (clim),All (pooled),255,0.7575,4.2797,3.2379
+LOYO CV,M2: RF (clim),Kyoto,85,0.6402,2.9497,2.2818
+LOYO CV,M2: RF (clim),Liestal,85,0.7307,5.8953,4.753
+LOYO CV,M2: RF (clim),Washington,85,0.7835,3.39,2.6789
+LOYO CV,M3: TS-RT (clim+lag),All (pooled),246,0.6901,4.7654,3.6648
+LOYO CV,M3: TS-RT (clim+lag),Kyoto,82,0.5083,3.3741,2.578
+LOYO CV,M3: TS-RT (clim+lag),Liestal,82,0.6725,6.3965,5.1353
+LOYO CV,M3: TS-RT (clim+lag),Washington,82,0.6978,3.9785,3.2813
+LOYO CV,M4: Hybrid RF+Lag,All (pooled),246,0.7749,4.0615,3.1744
+LOYO CV,M4: Hybrid RF+Lag,Kyoto,82,0.6301,2.9265,2.3375
+LOYO CV,M4: Hybrid RF+Lag,Liestal,82,0.7676,5.3884,4.444
+LOYO CV,M4: Hybrid RF+Lag,Washington,82,0.773,3.4481,2.7417
+Forecast 2021-2024,M1: RT (clim),All (pooled),12,0.2347,4.2023,3.4807
+Forecast 2021-2024,M1: RT (clim),Kyoto,4,-0.5333,5.5636,4.875
+Forecast 2021-2024,M1: RT (clim),Liestal,4,-0.9474,4.3012,4
+Forecast 2021-2024,M1: RT (clim),Washington,4,0.7339,1.8777,1.567
+Forecast 2021-2024,M2: RF (clim),All (pooled),12,0.0667,4.6408,3.8129
+Forecast 2021-2024,M2: RF (clim),Kyoto,4,-0.7345,5.9174,5.0879
+Forecast 2021-2024,M2: RF (clim),Liestal,4,-0.2042,3.3824,2.6622
+Forecast 2021-2024,M2: RF (clim),Washington,4,-0.3703,4.261,3.6886
+Forecast 2021-2024,M3: TS-RT (clim+lag),All (pooled),12,-0.0138,4.8367000000000004,3.7787
+Forecast 2021-2024,M3: TS-RT (clim+lag),Kyoto,4,-1.3854,6.9394,5.7692
+Forecast 2021-2024,M3: TS-RT (clim+lag),Liestal,4,-0.9474,4.3012,4
+Forecast 2021-2024,M3: TS-RT (clim+lag),Washington,4,0.7339,1.8777,1.567
+Forecast 2021-2024,M4: Hybrid RF+Lag,All (pooled),12,0.0135,4.7713,4.01
+Forecast 2021-2024,M4: Hybrid RF+Lag,Kyoto,4,-0.5817,5.6507,4.9525
+Forecast 2021-2024,M4: Hybrid RF+Lag,Liestal,4,-0.7266,4.05,3.2328
+Forecast 2021-2024,M4: Hybrid RF+Lag,Washington,4,-0.5067,4.4681,3.8446
